@@ -48,7 +48,7 @@ NEED_TRANSLATION
 "(completed: %s)"	""	"text"
 "- unnamed -"	""	"text"
 "0 (zero) is not a valid task ID"	""	"text"
-"1 month"	""	"combobox.1105"
+"1 month"	"1 mes"	"combobox.1105"
 "12 months / 1 year"	""	"combobox.1105"
 "2 months"	""	"combobox.1105"
 "3 months"	""	"combobox.1105"
